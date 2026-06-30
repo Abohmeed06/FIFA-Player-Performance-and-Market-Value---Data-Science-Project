@@ -19,9 +19,12 @@ This project analyzes FIFA player data to identify the factors influencing playe
 - Jupyter Notebook
 
 ## Dataset
-The project uses a FIFA player dataset stored in the `data/` directory.
 
-Also here is Kaggle Link : https://www.kaggle.com/datasets/jayjoshi37/fifa-player-performance-and-market-value-analytics
+This project uses the **FIFA Player Performance & Market Value Analytics** dataset by Jay Joshi on Kaggle.
+
+**Dataset Link:** :contentReference[oaicite:0]{index=0}
+
+The dataset contains approximately **2,800** synthetic player records with attributes such as age, nationality, club, position, performance statistics, and estimated market value, making it suitable for exploratory data analysis and machine learning projects. :contentReference[oaicite:1]{index=1}
 
 ## Repository Structure
 ```
